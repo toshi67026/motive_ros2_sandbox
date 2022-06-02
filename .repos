@@ -1,0 +1,4 @@
+- git:
+    local-name: vrpn_client_ros
+    uri: https://github.com/toshi67026/vrpn_client_ros.git
+    version: foxy_test
