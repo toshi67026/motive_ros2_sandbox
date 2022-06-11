@@ -3,7 +3,7 @@ from glob import glob
 
 from setuptools import setup
 
-package_name = "motive_ros_foxy_sandbox"
+package_name = "motive_ros2_sandbox"
 
 setup(
     name=package_name,
@@ -20,7 +20,7 @@ setup(
     zip_safe=True,
     maintainer="Toshiyuki Oshima",
     maintainer_email="toshiyuki67026@gmail.com",
-    description="TODO: Package description",
+    description="Test package for using vrpn_client_ros with ros2",
     license="Apache License 2.0",
     entry_points={
         "console_scripts": [],
