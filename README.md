@@ -30,5 +30,5 @@ Test package for using vrpn_client_ros with ROS2(foxy)
 - https://github.com/ros-drivers/vrpn_client_ros/issues/15
 - https://github.com/ros-drivers/vrpn_client_ros/pull/16
 - https://github.com/ros-drivers/vrpn_client_ros/pull/20
-- https://github.com/toshi67026/vrpn_client_ros/tree/foxy_test\
+- https://github.com/toshi67026/vrpn_client_ros/tree/foxy_test \
 Forked and modified for use with ros-foxy.
