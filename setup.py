@@ -7,7 +7,7 @@ package_name = "motive_ros2_sandbox"
 
 setup(
     name=package_name,
-    version="0.0.0",
+    version="1.0.0",
     packages=[package_name],
     data_files=[
         ("share/ament_index/resource_index/packages", ["resource/" + package_name]),
@@ -20,7 +20,7 @@ setup(
     zip_safe=True,
     maintainer="Toshiyuki Oshima",
     maintainer_email="toshiyuki67026@gmail.com",
-    description="Test package for using vrpn_client_ros with ros2",
+    description="ROS2 package for trying out vrpn_client_ros with ROS2(foxy)",
     license="Apache License 2.0",
     entry_points={
         "console_scripts": [],
