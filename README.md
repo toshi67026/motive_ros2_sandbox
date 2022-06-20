@@ -1,5 +1,5 @@
 # motive_ros2_sandbox
-Test package for using vrpn_client_ros with ROS2(foxy)
+ROS2 package for trying out vrpn_client_ros with ROS2(foxy).
 
 ## Installation
 1. [Install vrpn](https://github.com/vrpn/vrpn/wiki/Installing-and-testing)
